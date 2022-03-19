@@ -3,6 +3,8 @@
 - 🌱 I'm currently learning HTML, CSS and Javascript
 - 💞️ I try to collaborate in projects that involve my area.
 - 📫 How to find me, contact me at eduardohenrryks@gmail.com
+- Lanchonete Brasa https://eduardohenrryksimonato.github.io/Lanchonete-Brasa/
+- Trabalho de His/Pw 
 
 <!---
 EduardoHenrrykSimonato/EduardoHenrrykSimonato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
