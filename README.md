@@ -26,15 +26,16 @@ Tenho interesse em criar soluções eficientes, bem organizadas e documentadas, 
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" title="Ionic"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic&logoColor=3880FF"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
@@ -96,22 +97,18 @@ Repositórios com atividades, trabalhos e projetos desenvolvidos durante minha f
 
 ---
 
-## Estatísticas do GitHub
+## Informações do Perfil
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoHenrrykSimonato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenrrykSimonato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- GitHub: [EduardoHenrrykSimonato](https://github.com/EduardoHenrrykSimonato)
+- Localização: Rio Claro, São Paulo - Brasil
+- Formação: Técnico em Desenvolvimento de Sistemas
+- Graduação: Análise e Desenvolvimento de Sistemas
 
 ---
 
 ## Contato
 
 - E-mail: eduardohenrryks@gmail.com
-- GitHub: [EduardoHenrrykSimonato](https://github.com/EduardoHenrrykSimonato)
 - LinkedIn: adicionar futuramente
 
 ---
