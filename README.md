@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Eduardo%20Simonato&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=180&section=header&text=Eduardo%20Henrryk%20Simonato&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# Olá, eu sou o Eduardo Simonato
+# Olá, eu sou o Eduardo Henrryk Simonato
 
 Sou Técnico em Desenvolvimento de Sistemas e estou me formando em Análise e Desenvolvimento de Sistemas.
 
@@ -35,7 +35,6 @@ Tenho interesse em criar soluções eficientes, bem organizadas e documentadas, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 
 </div>
 
@@ -101,9 +100,9 @@ Repositórios com atividades, trabalhos e projetos desenvolvidos durante minha f
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoHenrrykSimonato&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoHenrrykSimonato&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenrrykSimonato&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenrrykSimonato&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
