@@ -37,15 +37,28 @@ Tenho interesse em criar soluções eficientes, bem organizadas e documentadas, 
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/Antigravity-0D1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/Genspark%20Super%20Agent-0D1117?style=for-the-badge&logo=sparkpost&logoColor=FFB300"/>
+
 </div>
 
 ---
 
 ## Ferramentas de IA e Produtividade
 
-- ChatGPT para apoio em estudos, documentação, organização de projetos e resolução de problemas técnicos
-- Antigravity para desenvolvimento assistido, criação de telas, ajustes visuais e evolução de projetos
-- Genspark para pesquisas, organização de ideias e apoio na produção de conteúdo
+Utilizo ferramentas de inteligência artificial como apoio para estudos, documentação, desenvolvimento, análise de problemas, organização de projetos e melhoria de produtividade.
+
+- ChatGPT para apoio em estudos, documentação técnica, organização de projetos e resolução de problemas
+- Antigravity para desenvolvimento assistido, criação de interfaces, ajustes visuais e evolução de aplicações
+- Claude para análise de textos, revisão de documentação e apoio em raciocínio técnico
+- Gemini para pesquisas, apoio acadêmico e produtividade
+- Genspark Super Agent para pesquisas avançadas, organização de ideias e apoio na produção de conteúdo
+
 ---
 
 ## Áreas de Interesse
