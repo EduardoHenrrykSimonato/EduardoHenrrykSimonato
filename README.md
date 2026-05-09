@@ -41,6 +41,13 @@ Tenho interesse em criar soluções eficientes, bem organizadas e documentadas, 
 
 ---
 
+## Ferramentas de IA e Produtividade
+
+- ChatGPT para apoio em estudos, documentação, organização de projetos e resolução de problemas técnicos
+- Antigravity para desenvolvimento assistido, criação de telas, ajustes visuais e evolução de projetos
+- Genspark para pesquisas, organização de ideias e apoio na produção de conteúdo
+---
+
 ## Áreas de Interesse
 
 - Suporte Técnico de Software
